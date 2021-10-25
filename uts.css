@@ -1,0 +1,122 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #EEEEEE;
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+#header{
+	padding: 40px;
+	margin: auto;
+	position: relative;
+	background-color: #141E61;
+}
+.logo{
+	color: #F1F6F9;
+	text-align: left;
+	font-size: 50px;
+	font-weight: 800;
+	font-family: courier;
+}
+.logo img {
+	float: left;
+	width: 60px;
+	margin-right: 10px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+#navigation{
+	float: right;
+	padding: 10px;
+	border: 1px solid #000;
+	margin-top: 10px;
+	margin-right: 10px;
+	background-color: #141E61;
+}
+.menu{
+	width: 180px;
+	font-size: 12px;
+	float: right;
+	padding: 20px;
+	background-color:#EEEEEE ;
+}
+#content{
+	padding: 10px;
+	border: 3px solid #141E61;
+	width: 1000px;
+	height: 1080px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color: #F1F6F9;
+}
+.gambar1{
+	float: left;
+	width: 250px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.biodata{
+	font-family: courier;
+	font-size: 36px;
+	font-weight: 800;
+	text-align: left;
+}
+.artikel{
+	border-top: 3px solid #141E61;
+	border-bottom: 3px solid #141E61;
+	width: 1000px;
+	height: 600px;
+	text-align: center;
+	font-size: 36px;
+	margin-top: 20px;
+	font-family: courier;
+	font-weight: 800;
+	background-color: #9BA4B4;
+}
+.berita{
+	text-align: center;
+}
+.berita h3{
+	font-size: 18px;
+	font-family: Times New Roman;
+}
+.gambar2{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+.berita p{
+	margin-top: 4 px;
+	margin-bottom: 3px;
+	margin-right: 3px;
+	margin-left: 4px;
+	text-indent: 45px;
+	text-align: left;
+	font-size: 15px;
+	font-family: Times New Roman ;
+}
+.form{
+	width: 500px;
+	padding: 30px;
+	font-family: courier;
+	font-size: 36px;
+	font-weight: 800;
+	text-align: center;
+	border: 3px solid #141E61;
+	margin-top: 10px;
+}
+.form table{
+	font-size: 18px;
+}
+#footer{
+	color: #F1F6F9;
+	padding: 10px;
+	border: 1 px solid #000000;
+	background-color: #141E61;
+}
